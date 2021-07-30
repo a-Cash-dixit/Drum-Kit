@@ -1,2 +1,2 @@
 # Drum-Kit
-Using DOM
+Using DOM, playing Drum.
